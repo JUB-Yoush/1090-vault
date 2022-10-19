@@ -1,2 +1,2 @@
 # 1090-vault
-obsidian notes to decode this jargon filled spagetthi course
+obsidian vault to decode this jargon filled spagetthi course
