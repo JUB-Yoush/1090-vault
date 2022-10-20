@@ -4,55 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5cb6593c43536398",
+        "id": "98480f672c61f29c",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "9916592e6a08eac1",
+            "id": "efd68fafe8ea1f96",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "schema.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
-          },
-          {
-            "id": "81941d20971f0561",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "logical_axiom.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "00f5fa13987a03b1"
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "9665e38fec639cac",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
-          {
-            "id": "321ec22b22d5df40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "logical_axiom.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "group": "00f5fa13987a03b1"
           }
         ]
       }
@@ -120,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "logical_axiom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "logical_axiom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "logical_axiom.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,17 +140,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "81941d20971f0561",
+  "active": "efd68fafe8ea1f96",
   "lastOpenFiles": [
+    "logical_axiom.md",
+    "schema.md",
+    "logical_axioms.png",
     "atomic_formula.md",
     "associative_direction.md",
     "README.md",
-    "logical_axiom.md",
     "tautological_implication.md",
-    "schema.md",
     "hilbert_proofs.md",
     "substitution.md",
-    "metatheory.md",
-    "top_down_parsing.md"
+    "metatheory.md"
   ]
 }
