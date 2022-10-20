@@ -38,9 +38,69 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "84d6f3362b02c839",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "theorem.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a3dc35d3bb6120fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "absolute_theorem.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "49950d2c2313c12e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "logical_theorem.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2632805659da2f64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hilbert_style_proofs.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5f3772d97b3e4cb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -106,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "theorem_calculation.md",
+                "file": "hilbert_style_proofs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "theorem_calculation.md",
+                "file": "hilbert_style_proofs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "theorem_calculation.md"
+                "file": "hilbert_style_proofs.md"
               }
             }
           },
@@ -169,17 +229,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "8f277fc2a35931c5",
+  "active": "2632805659da2f64",
   "lastOpenFiles": [
-    "rules_of_inference.md",
+    "logical_theorem.md",
+    "absolute_theorem.md",
+    "theorem.md",
     "theorem_calculation.md",
-    "hilbert_proofs.md",
-    "inductive_formulae_proofs.md",
-    "logical_axiom.md",
-    "substitution.md",
-    "tautological_implication.md",
+    "gamma_theorem.md",
     "README.md",
-    "well_formed_formula.md",
-    "associative_direction.md"
+    "tautological_implication.md",
+    "hilbert_proofs.md",
+    "rules_of_inference.md",
+    "inductive_formulae_proofs.md"
   ]
 }
