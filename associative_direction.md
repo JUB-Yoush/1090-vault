@@ -1,0 +1,2 @@
+- apply the left or right occurance of this operation first
+- important for things like [[substitution]]

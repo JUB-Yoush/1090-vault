@@ -6,7 +6,7 @@
       {
         "id": "cd5aac36604cdae9",
         "type": "tabs",
-        "dimension": 66.30710659898476,
+        "dimension": 50,
         "children": [
           {
             "id": "f1ce020ccb2daef5",
@@ -102,8 +102,7 @@
                 "mode": "source",
                 "source": true
               }
-            },
-            "group": "a5e3dd7a0ee7cb59"
+            }
           },
           {
             "id": "2432939881d95589",
@@ -111,116 +110,81 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "least.md",
+                "file": "boolean_functions.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "422f612a4b24dbc1",
+            "id": "8a3083625547451f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "simple_induction.md",
+                "file": "tautological_implication.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "c61b872a8d6a1bfe",
+            "id": "ad6de79f604bf371",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recusive_def_of_wff.md",
+                "file": "tautological_implication.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "c07804e0ee059870",
+            "id": "d54c3c8015dc26ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "boolean_alphabet.md",
+                "file": "tautological_implication.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "94d96468c3a43de6",
+            "id": "f2a3543a74aaaf6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "boolean_semantics.md",
+                "file": "schema.md",
                 "mode": "source",
                 "source": true
               }
-            }
-          },
-          {
-            "id": "b92eb5ea05f6440b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "boolean_variable.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ef5347b74818b111",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "formula_conditions.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ad6a140626ac2e5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "occurrence_of_a_variable.md",
-                "mode": "source",
-                "source": true
-              }
-            }
+            },
+            "group": "595f3e18d4ad8bfa"
           }
         ],
-        "currentTab": 8
+        "currentTab": 12
       },
       {
-        "id": "9f201c0d680dde28",
+        "id": "5cb6593c43536398",
         "type": "tabs",
-        "dimension": 33.692893401015226,
+        "dimension": 50,
         "children": [
           {
-            "id": "55bd32ce45ba13be",
+            "id": "9916592e6a08eac1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "substitution.md",
+                "file": "schema.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "a5e3dd7a0ee7cb59"
+            "group": "595f3e18d4ad8bfa"
           }
         ]
       }
@@ -288,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "least.md",
+                "file": "schema.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -305,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "least.md",
+                "file": "schema.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -328,11 +292,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "least.md"
+                "file": "schema.md"
               }
             }
+          },
+          {
+            "id": "2520d226ee2c0baa",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -342,17 +315,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "2432939881d95589",
+  "active": "f2a3543a74aaaf6f",
   "lastOpenFiles": [
+    "hilbert_proofs.md",
+    "schema.md",
     "substitution.md",
-    "operation_priority.md",
-    "boolean_alphabet.md",
-    "boolean_variable.md",
-    "boolean_semantics.md",
-    "complexity.md",
-    "boolean_functions.md",
-    "atomic_formula.md",
-    "metavariable.md",
-    "schema.md"
+    "metatheory.md",
+    "tautological_implication.md",
+    "top_down_parsing.md",
+    "well_formed_formula.md",
+    "truth_value.md",
+    "truth_tables.md",
+    "boolean_alphabet.md"
   ]
 }

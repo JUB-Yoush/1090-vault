@@ -1,1 +1,1 @@
-strings of [[boolean_alphabet]] characters that all follow the rules of [[formula_calculation]]
+- strings of [[boolean_alphabet]] characters that all follow the rules of [[formula_calculation]]

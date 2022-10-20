@@ -1,1 +1,1 @@
-Tables describing the return value of strings of [[well_formed_formula|wff]] from inputted [[boolean_alphabet|boolean characters']] [[truth_value|truth values]] 
+- Tables describing the return value of strings of [[well_formed_formula|wff]] from inputted [[boolean_alphabet|boolean characters']] [[truth_value|truth values]] 
