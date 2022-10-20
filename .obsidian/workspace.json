@@ -77,28 +77,52 @@
                 "mode": "source",
                 "source": true
               }
-            },
-            "group": "b3a5e94d665ac795"
-          }
-        ],
-        "currentTab": 5
-      },
-      {
-        "id": "999e6e4e1ef18652",
-        "type": "tabs",
-        "children": [
+            }
+          },
           {
-            "id": "818db56b861797d7",
+            "id": "ef5347b74818b111",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "state_v.md",
+                "file": "tauology.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "cc2b027264ffffc7"
+          },
+          {
+            "id": "ad6a140626ac2e5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "occurrence_of_a_variable.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      },
+      {
+        "id": "3f3e9b228b6298b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ed9134c418d4feb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tauology.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "b3a5e94d665ac795"
+            "group": "cc2b027264ffffc7"
           }
         ]
       }
@@ -166,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "state_v.md",
+                "file": "tauology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "state_v.md",
+                "file": "tauology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "state_v.md"
+                "file": "tauology.md"
               }
             }
           }
@@ -220,17 +244,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "818db56b861797d7",
+  "active": "7ed9134c418d4feb",
   "lastOpenFiles": [
-    "string.md",
     "state_v.md",
+    "occurrence_of_a_variable.md",
+    "string.md",
     "boolean_functions.md",
     "atomic_formula.md",
     "complexity.md",
     "formula_calculation.md",
     "inductive_formulae_proofs.md",
     "boolean_variable.md",
-    "truth_tables.md",
-    "boolean_alphabet.md"
+    "truth_tables.md"
   ]
 }
