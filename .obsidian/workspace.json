@@ -81,6 +81,18 @@
             "group": "88df4e6ee67a24f9"
           },
           {
+            "id": "793c1b34f2667c41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "422f612a4b24dbc1",
             "type": "leaf",
             "state": {
@@ -165,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "0f6d09a43820b058",
@@ -250,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tautological_implication.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tautological_implication.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tautological_implication.md"
+                "file": "README.md"
               }
             }
           }
@@ -304,17 +316,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "0dc6e69bca1b1a8a",
+  "active": "793c1b34f2667c41",
   "lastOpenFiles": [
-    "formula_sets.md",
-    "formula_conditions.md",
     "tautological_implication.md",
     "truth_tables.md",
-    "truth_value.md",
-    "formula.md",
-    "formula_calculation.md",
+    "top_down_parsing.md",
+    "Hypotheses.md",
     "string.md",
-    "metatheory.md",
-    "!!!README.md"
+    "formula_conditions.md",
+    "formula_calculation.md",
+    "README.md",
+    "recusive_def_of_wff.md",
+    "formula_sets.md"
   ]
 }
