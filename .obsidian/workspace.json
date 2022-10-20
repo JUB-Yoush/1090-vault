@@ -13,11 +13,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "well_formed_formula.md",
+                "file": "formula_conditions.md",
                 "mode": "source",
                 "source": true
               }
             }
+          },
+          {
+            "id": "79ebd7d4a8c1f2ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "formula_conditions.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "507fb69fea80db27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tautological_implication.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f2610f1d5a8439f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "formula_conditions.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5bf2dfb486426437",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "formula_sets.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c0256ff5a7ff42b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tautological_implication.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "88df4e6ee67a24f9"
           },
           {
             "id": "422f612a4b24dbc1",
@@ -25,7 +86,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "state_v.md",
+                "file": "simple_induction.md",
                 "mode": "source",
                 "source": true
               }
@@ -37,7 +98,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "boolean_semantics.md",
+                "file": "recusive_def_of_wff.md",
                 "mode": "source",
                 "source": true
               }
@@ -49,7 +110,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "state_v.md",
+                "file": "boolean_alphabet.md",
                 "mode": "source",
                 "source": true
               }
@@ -61,7 +122,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "state_v.md",
+                "file": "boolean_semantics.md",
                 "mode": "source",
                 "source": true
               }
@@ -73,7 +134,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "state_v.md",
+                "file": "boolean_variable.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,12 +146,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tauology.md",
+                "file": "formula_conditions.md",
                 "mode": "source",
                 "source": true
               }
-            },
-            "group": "cc2b027264ffffc7"
+            }
           },
           {
             "id": "ad6a140626ac2e5f",
@@ -105,24 +165,24 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
-        "id": "3f3e9b228b6298b5",
+        "id": "0f6d09a43820b058",
         "type": "tabs",
         "children": [
           {
-            "id": "7ed9134c418d4feb",
+            "id": "0dc6e69bca1b1a8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tauology.md",
+                "file": "tautological_implication.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "cc2b027264ffffc7"
+            "group": "88df4e6ee67a24f9"
           }
         ]
       }
@@ -190,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tauology.md",
+                "file": "tautological_implication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tauology.md",
+                "file": "tautological_implication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tauology.md"
+                "file": "tautological_implication.md"
               }
             }
           }
@@ -244,17 +304,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "7ed9134c418d4feb",
+  "active": "0dc6e69bca1b1a8a",
   "lastOpenFiles": [
-    "state_v.md",
-    "occurrence_of_a_variable.md",
-    "string.md",
-    "boolean_functions.md",
-    "atomic_formula.md",
-    "complexity.md",
+    "formula_sets.md",
+    "formula_conditions.md",
+    "tautological_implication.md",
+    "truth_tables.md",
+    "truth_value.md",
+    "formula.md",
     "formula_calculation.md",
-    "inductive_formulae_proofs.md",
-    "boolean_variable.md",
-    "truth_tables.md"
+    "string.md",
+    "metatheory.md",
+    "!!!README.md"
   ]
 }
