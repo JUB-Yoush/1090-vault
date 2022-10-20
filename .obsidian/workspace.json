@@ -14,8 +14,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "c4d6d33517bca709",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rules_of_inference.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 248.5
   },
   "right": {
     "id": "4d750b67846ce7df",
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "rules_of_inference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "rules_of_inference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "rules_of_inference.md"
+              }
             }
           },
           {
@@ -140,17 +157,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "efd68fafe8ea1f96",
+  "active": "c4d6d33517bca709",
   "lastOpenFiles": [
+    "substitution.md",
+    "rules_of_inference.md",
+    "tautological_implication.md",
+    "README.md",
     "well_formed_formula.md",
     "associative_direction.md",
     "boolean_alphabet.md",
     "strong_induction.md",
     "logical_axiom.md",
-    "schema.md",
-    "logical_axioms.png",
-    "atomic_formula.md",
-    "README.md",
-    "tautological_implication.md"
+    "schema.md"
   ]
 }
