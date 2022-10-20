@@ -62,6 +62,18 @@
             }
           },
           {
+            "id": "f3d882489f405447",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "resolution.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "a3dc35d3bb6120fc",
             "type": "leaf",
             "state": {
@@ -106,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -172,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "equational_style_proof.md",
+                "file": "resolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "equational_style_proof.md",
+                "file": "resolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "equational_style_proof.md"
+                "file": "resolution.md"
               }
             }
           },
@@ -235,8 +247,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "39fbb184488b1c8c",
+  "active": "f3d882489f405447",
   "lastOpenFiles": [
+    "equational_style_proof.md",
     "logical_axioms.png",
     "logical_axiom.md",
     "formula_conditions.md",
@@ -245,7 +258,6 @@
     "operation_priority.md",
     "least_parentheses_notation.md",
     "theorem.md",
-    "logic_vs_metatheory.md",
-    "hilbert_style_proofs.md"
+    "logic_vs_metatheory.md"
   ]
 }
