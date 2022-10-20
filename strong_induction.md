@@ -1,0 +1,1 @@
+- like [[simple_induction]] but features a inductive hypothesis that make us assume that $P(k)$ holds for all k < n

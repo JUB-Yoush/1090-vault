@@ -1,0 +1,2 @@
+- logic as the object of study
+- look at logic from the outside

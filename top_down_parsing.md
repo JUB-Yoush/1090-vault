@@ -1,0 +1,2 @@
+- show the immedete predisessors to a string
+- if the string is a [[formula_calculation]] then what would the previous step(s) have been 

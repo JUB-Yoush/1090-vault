@@ -1,0 +1,2 @@
+- the # of connectives and negations occuring in a [[well_formed_formula]]
+- boolean variables and constatnts have complexity of 0, also known as a [[atomic_formula]]

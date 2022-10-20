@@ -1,0 +1,1 @@
+[[formula_calculation]] of one boolean variable or constatnt [[boolean_alphabet]]
