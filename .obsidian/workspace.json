@@ -26,9 +26,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "8f277fc2a35931c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "theorem_calculation.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rules_of_inference.md",
+                "file": "theorem_calculation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rules_of_inference.md",
+                "file": "theorem_calculation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rules_of_inference.md"
+                "file": "theorem_calculation.md"
               }
             }
           },
@@ -157,17 +169,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c4d6d33517bca709",
+  "active": "8f277fc2a35931c5",
   "lastOpenFiles": [
-    "substitution.md",
     "rules_of_inference.md",
+    "theorem_calculation.md",
+    "hilbert_proofs.md",
+    "inductive_formulae_proofs.md",
+    "logical_axiom.md",
+    "substitution.md",
     "tautological_implication.md",
     "README.md",
     "well_formed_formula.md",
-    "associative_direction.md",
-    "boolean_alphabet.md",
-    "strong_induction.md",
-    "logical_axiom.md",
-    "schema.md"
+    "associative_direction.md"
   ]
 }
