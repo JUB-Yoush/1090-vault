@@ -79,6 +79,14 @@
             "id": "2632805659da2f64",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "167d3b883cbe99a4",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "hilbert_style_proofs.md",
@@ -100,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -229,17 +237,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "2632805659da2f64",
+  "active": "167d3b883cbe99a4",
   "lastOpenFiles": [
-    "logical_theorem.md",
-    "absolute_theorem.md",
-    "theorem.md",
-    "theorem_calculation.md",
-    "gamma_theorem.md",
-    "README.md",
-    "tautological_implication.md",
-    "hilbert_proofs.md",
-    "rules_of_inference.md",
+    "logic_vs_metatheory.md",
+    "substitution.md",
+    "occurrence_of_a_variable.md",
+    "logical_axiom.md",
+    "well_formed_formula.md",
+    "hilbert_style_proofs.md",
+    "metavariable.md",
+    "metatheory.md",
+    "string_variable.md",
     "inductive_formulae_proofs.md"
   ]
 }
