@@ -11,7 +11,7 @@
             "id": "efd68fafe8ea1f96",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -142,15 +142,15 @@
   },
   "active": "efd68fafe8ea1f96",
   "lastOpenFiles": [
+    "well_formed_formula.md",
+    "associative_direction.md",
+    "boolean_alphabet.md",
+    "strong_induction.md",
     "logical_axiom.md",
     "schema.md",
     "logical_axioms.png",
     "atomic_formula.md",
-    "associative_direction.md",
     "README.md",
-    "tautological_implication.md",
-    "hilbert_proofs.md",
-    "substitution.md",
-    "metatheory.md"
+    "tautological_implication.md"
   ]
 }
