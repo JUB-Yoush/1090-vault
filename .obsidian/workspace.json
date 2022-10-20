@@ -4,171 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "cd5aac36604cdae9",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
-          {
-            "id": "f1ce020ccb2daef5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "formula_conditions.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "79ebd7d4a8c1f2ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "formula_conditions.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "507fb69fea80db27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tautological_implication.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f2610f1d5a8439f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "formula_conditions.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5bf2dfb486426437",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "formula_sets.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c0256ff5a7ff42b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tautological_implication.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "793c1b34f2667c41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "substitution.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "74a52b3f841e3fd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "substitution.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2432939881d95589",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "boolean_functions.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8a3083625547451f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tautological_implication.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ad6de79f604bf371",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tautological_implication.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d54c3c8015dc26ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tautological_implication.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f2a3543a74aaaf6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "schema.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "595f3e18d4ad8bfa"
-          }
-        ],
-        "currentTab": 12
-      },
-      {
         "id": "5cb6593c43536398",
         "type": "tabs",
         "dimension": 50,
@@ -183,8 +18,41 @@
                 "mode": "preview",
                 "source": true
               }
+            }
+          },
+          {
+            "id": "81941d20971f0561",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "logical_axiom.md",
+                "mode": "source",
+                "source": true
+              }
             },
-            "group": "595f3e18d4ad8bfa"
+            "group": "00f5fa13987a03b1"
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "9665e38fec639cac",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "321ec22b22d5df40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "logical_axiom.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "00f5fa13987a03b1"
           }
         ]
       }
@@ -252,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "schema.md",
+                "file": "logical_axiom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "schema.md",
+                "file": "logical_axiom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -292,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "schema.md"
+                "file": "logical_axiom.md"
               }
             }
           },
@@ -315,17 +183,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f2a3543a74aaaf6f",
+  "active": "81941d20971f0561",
   "lastOpenFiles": [
-    "hilbert_proofs.md",
+    "atomic_formula.md",
+    "associative_direction.md",
+    "README.md",
+    "logical_axiom.md",
+    "tautological_implication.md",
     "schema.md",
+    "hilbert_proofs.md",
     "substitution.md",
     "metatheory.md",
-    "tautological_implication.md",
-    "top_down_parsing.md",
-    "well_formed_formula.md",
-    "truth_value.md",
-    "truth_tables.md",
-    "boolean_alphabet.md"
+    "top_down_parsing.md"
   ]
 }
