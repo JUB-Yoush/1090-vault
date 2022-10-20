@@ -1,3 +1,3 @@
 - a theorem inside logic is simply a well-formed formula
 - things that re "inside logic" are things that use the [[boolean_alphabet|boolean alphabet]]
-- 
+- $\Gamma \vdash A$ is a statement in the metatheory and metatheorems are theorems about logic
