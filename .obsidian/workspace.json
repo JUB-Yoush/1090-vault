@@ -11,9 +11,94 @@
             "id": "f1ce020ccb2daef5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "well_formed_formula.md",
+                "mode": "source",
+                "source": true
+              }
             }
+          },
+          {
+            "id": "422f612a4b24dbc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "state_v.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c61b872a8d6a1bfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "boolean_semantics.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c07804e0ee059870",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "state_v.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "94d96468c3a43de6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "state_v.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b92eb5ea05f6440b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "state_v.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "b3a5e94d665ac795"
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "999e6e4e1ef18652",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "818db56b861797d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "state_v.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "b3a5e94d665ac795"
           }
         ]
       }
@@ -81,6 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "state_v.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "state_v.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +205,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "state_v.md"
+              }
             }
           }
         ]
@@ -131,6 +220,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f1ce020ccb2daef5",
-  "lastOpenFiles": []
+  "active": "818db56b861797d7",
+  "lastOpenFiles": [
+    "string.md",
+    "state_v.md",
+    "boolean_functions.md",
+    "atomic_formula.md",
+    "complexity.md",
+    "formula_calculation.md",
+    "inductive_formulae_proofs.md",
+    "boolean_variable.md",
+    "truth_tables.md",
+    "boolean_alphabet.md"
+  ]
 }

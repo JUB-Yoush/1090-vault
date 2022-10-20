@@ -1,0 +1,1 @@
+a [[boolean_alphabet]] character that isn't a connective or a constant. The [[truth_value]] of these variables can be changed by setting them with a [[state_v|state v]] function

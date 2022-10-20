@@ -1,0 +1,2 @@
+literally just **t** or **f**
+like when you fill out a truth table, all the rows are the outputs of the [[string|string's]] value states based on  the [[boolean_alphabet|boolean characters's]] truth value.
