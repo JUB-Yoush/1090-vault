@@ -67,7 +67,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resolution.md",
+                "file": "resolution_style_proof.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b56d64de1ace01dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "resolution_style_proof.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "037901bf00b55a00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "p_fresh.md",
                 "mode": "source",
                 "source": true
               }
@@ -118,7 +142,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -184,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resolution.md",
+                "file": "p_fresh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resolution.md",
+                "file": "p_fresh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +248,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resolution.md"
+                "file": "p_fresh.md"
               }
             }
           },
@@ -247,8 +271,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f3d882489f405447",
+  "active": "037901bf00b55a00",
   "lastOpenFiles": [
+    "resolution_style_proof.md",
+    "ping_pong_theorem.md",
     "equational_style_proof.md",
     "logical_axioms.png",
     "logical_axiom.md",
@@ -256,8 +282,6 @@
     "rules_of_inference.md",
     "gamma_theorem.md",
     "operation_priority.md",
-    "least_parentheses_notation.md",
-    "theorem.md",
-    "logic_vs_metatheory.md"
+    "least_parentheses_notation.md"
   ]
 }
