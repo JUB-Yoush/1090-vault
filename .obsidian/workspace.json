@@ -43,10 +43,20 @@
             "id": "84d6f3362b02c839",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "logical_axioms.png"
+              }
+            }
+          },
+          {
+            "id": "39fbb184488b1c8c",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "logical_axiom.md",
-                "mode": "preview",
+                "file": "equational_style_proof.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -96,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -162,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "logical_axiom.md",
+                "file": "equational_style_proof.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "logical_axiom.md",
+                "file": "equational_style_proof.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "logical_axiom.md"
+                "file": "equational_style_proof.md"
               }
             }
           },
@@ -225,13 +235,13 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "84d6f3362b02c839",
+  "active": "39fbb184488b1c8c",
   "lastOpenFiles": [
-    "formula_conditions.md",
+    "logical_axioms.png",
     "logical_axiom.md",
+    "formula_conditions.md",
     "rules_of_inference.md",
     "gamma_theorem.md",
-    "logical_axioms.png",
     "operation_priority.md",
     "least_parentheses_notation.md",
     "theorem.md",
