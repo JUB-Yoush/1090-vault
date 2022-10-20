@@ -11,3 +11,8 @@ Helpful for writing Latex (use $ text $ to add latex symbols to a page  )
 https://en.wikipedia.org/wiki/List_of_logic_symbols
 
 also make sure to enable the Community Plugins for Auto Pushing and Pulling to a repository
+
+### What the 1090 students are saying about it
+"Very... concise." - Arianne 
+"It's better than nothing" - Sana
+"nice. *Breaks into laughter*" - Anmol
