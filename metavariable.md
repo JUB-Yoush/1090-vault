@@ -1,0 +1,3 @@
+part of the [[metatheory]]
+represents any possible [[boolean_variable]]
+not a part of the [[boolean_alphabet]] 

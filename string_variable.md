@@ -1,4 +1,4 @@
-denoted by $A,B,C etc$ with or without primes or subscripts
+denoted by $A,B,C$... etc  with or without primes or subscripts
 used to represent packed [[string]]s
 
 ### concatination

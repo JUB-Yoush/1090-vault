@@ -6,6 +6,7 @@
       {
         "id": "cd5aac36604cdae9",
         "type": "tabs",
+        "dimension": 66.30710659898476,
         "children": [
           {
             "id": "f1ce020ccb2daef5",
@@ -77,8 +78,7 @@
                 "mode": "source",
                 "source": true
               }
-            },
-            "group": "88df4e6ee67a24f9"
+            }
           },
           {
             "id": "793c1b34f2667c41",
@@ -86,7 +86,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "substitution.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "74a52b3f841e3fd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "substitution.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "a5e3dd7a0ee7cb59"
+          },
+          {
+            "id": "2432939881d95589",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "least.md",
                 "mode": "source",
                 "source": true
               }
@@ -177,24 +202,25 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       },
       {
-        "id": "0f6d09a43820b058",
+        "id": "9f201c0d680dde28",
         "type": "tabs",
+        "dimension": 33.692893401015226,
         "children": [
           {
-            "id": "0dc6e69bca1b1a8a",
+            "id": "55bd32ce45ba13be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tautological_implication.md",
+                "file": "substitution.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "88df4e6ee67a24f9"
+            "group": "a5e3dd7a0ee7cb59"
           }
         ]
       }
@@ -262,7 +288,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "least.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +305,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "least.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,7 +328,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "least.md"
               }
             }
           }
@@ -316,17 +342,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "793c1b34f2667c41",
+  "active": "2432939881d95589",
   "lastOpenFiles": [
-    "tautological_implication.md",
-    "truth_tables.md",
-    "top_down_parsing.md",
-    "Hypotheses.md",
-    "string.md",
-    "formula_conditions.md",
-    "formula_calculation.md",
-    "README.md",
-    "recusive_def_of_wff.md",
-    "formula_sets.md"
+    "substitution.md",
+    "operation_priority.md",
+    "boolean_alphabet.md",
+    "boolean_variable.md",
+    "boolean_semantics.md",
+    "complexity.md",
+    "boolean_functions.md",
+    "atomic_formula.md",
+    "metavariable.md",
+    "schema.md"
   ]
 }
