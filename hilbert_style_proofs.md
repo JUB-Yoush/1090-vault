@@ -1,3 +1,4 @@
+
 To prove $\Gamma \vdash A$:
 
 | axiom #                                                                        | axiom                                                | annotiation (explain) |
