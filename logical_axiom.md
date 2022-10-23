@@ -15,6 +15,6 @@
 | 6            |               |
 | 7            |               |
 | 8            |               |
-| 9            |               |
+| 9            |A or $\neg A$ always returns true, as one of them are always true               |
 | 10           |               |
 | 11             |               |
