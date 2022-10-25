@@ -5,3 +5,5 @@
 
 ## Redundant True Metatheorem
 ### for any $\Gamma$ and $A$, $\Gamma \vdash A$ iff $\Gamma \vdash A \equiv \top$
+- Gamma proves A only if A is true
+- special case: $A \vdash A \equiv \top$
