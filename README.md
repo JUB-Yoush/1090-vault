@@ -1,3 +1,4 @@
+#README
 # 1090-vault
 - A glossary/obsidian vault for MATH 1090 F22
 - Created by Jayden Brooks :)
@@ -14,5 +15,5 @@
 https://en.wikipedia.org/wiki/List_of_logic_symbols
 
 ### What the 1090 students are saying about it:
-"Very... concise." - Arianne 
-"It's better than nothing" - Sana
+- "Very... concise." - Arianne 
+- "It's better than nothing" - Sana
