@@ -9,5 +9,4 @@
 ### recusive step
 - if A and B are any strings in WFF, then so are any strings that connect them $(A\land B)$
 
-### [[top_down_parsing]]
 
