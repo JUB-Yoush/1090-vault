@@ -1,6 +1,6 @@
 - used alongside [[logical_axiom|logical axioms]] to prove [[tautological_implication|mathmatical truths]]
 
-## Equimnimity
+## Equinimity
 ## $\frac{A,A \equiv B}{B}$
 - What it means: if we know that A is true and that A is equivalent to B, we can know that B is also true.
 
