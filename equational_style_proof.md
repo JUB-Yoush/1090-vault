@@ -2,7 +2,7 @@
 ### $A_{1}\equiv A_{2}, A_{2}\equiv A_{3}, A_{n}\equiv A_{n+1}$
 - Proofs written through making equivalent statements
 - less rigid than [[hilbert_style_proofs|Hilbert style]]
-- using the transitivity of the $\equiv$, we're able to replace $A_{n}$ with $A_{n+1}$
+- using the [[transitivity]] of the $\equiv$, we're able to replace $A_{n}$ with $A_{n+1}$
 - we can use a $\Leftrightarrow$ to simplify the syntax 
 
 ### Corrollary:
