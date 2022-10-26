@@ -10,12 +10,12 @@
 | ------------ | -------------------------------------------------------------------------------------------------------- |
 | 1            |                                                                                                          |
 | 2            |                                                                                                          |
-| 3            |                                                                                                          |
+| 3            | $\top$ and $\bot$ aren't equivalent                      |
 | 4            | if $\neg A$ is false and A is true then they aren't equivalent, $\therefore$ $F \equiv \bot$ is true.    |
 | 5            |                                                                                                          |
 | 6            |                                                                                                          |
 | 7            | an $\lor$ with  two of the same variables being compared will return the [[truth_value]] of the variable |
-| 8            |                                                                                                          |
+| 8            |  $A\lor$ can be distributed into nested comparisons|
 | 9            | A or $\neg A$ always returns true, as one of them is always true                                         |
 | 10           |                                                                                                          |
 | 11           |                                                                                                          |
