@@ -17,7 +17,7 @@
 | 7            | an $\lor$ with  two of the same variables being compared will return the [[truth_value]] of the variable |
 | 8            |  $A\lor$ can be distributed into nested comparisons|
 | 9            | A or $\neg A$ always returns true, as one of them is always true                                         |
-| 10           |                                                                                                          |
+| 10           | if $A$ and $B$ are true, then $A\land B$ and $A\lor B$ are equivalent                                                                                                        |
 | 11           |                                                                                                          |
 
 ### Other Axioms 
