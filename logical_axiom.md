@@ -19,3 +19,6 @@
 | 9            | A or $\neg A$ always returns true, as one of them is always true                                         |
 | 10           |                                                                                                          |
 | 11           |                                                                                                          |
+
+### Other Axioms 
+Distributivity of $\land$ over
