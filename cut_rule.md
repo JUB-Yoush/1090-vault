@@ -1,2 +1,3 @@
 - You can merge two different [[string|strings]] together if one has a negation of anothers [[boolean_variable]]
 - $(A\lor B)$ and $(\neg A\lor C)$ can be cut rule'd into $(B\lor C)$
+- you represent this by drawing lines from both strings that come together and make the new one

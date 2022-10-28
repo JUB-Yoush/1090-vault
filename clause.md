@@ -1,0 +1,2 @@
+- a disjunction  of [[literal|iterals]]
+- [[well_formed_formula|wff]] but only with [[boolean_variable]], $\lor$, or $\neg$ (see [[boolean_alphabet]])
