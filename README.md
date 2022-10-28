@@ -1,7 +1,7 @@
 #README
 # 1090-vault
 - a glossary/obsidian vault for MATH 1090 F22
-- created by Jayden Brooks :)
+- created by Jayden Brooks + contributors
 - based on the course as taught by Prof. May so YMMV
 - making it public so other people can fix the spelling mistakes (also maybe improve/contribute to it if they'd like)
 
