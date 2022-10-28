@@ -1,6 +1,5 @@
-#TODO 
 - if $A\rightarrow B$
-- and $A$ is established to be true at some stage in the proof
+- and $A$ is established to be true at some stage in a [[hilbert_style_proofs|hilbert style proof I think]]
 - then you can write $B$ as true in the proof
 
 1. $A$ 
