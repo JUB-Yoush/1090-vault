@@ -1,0 +1,4 @@
+- a [[metatheorem]]
+- if $A$ is within [[formula_sets|formula set]] $\Gamma$
+- and $\Gamma$ is a [[tautological_implication#Hypothesis|Hypothesis]] of $B$
+- then we can say that $\Gamma$ by itself proves the implication, so $\Gamma \vdash A \rightarrow B$
