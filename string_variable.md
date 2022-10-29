@@ -1,5 +1,5 @@
 - denoted by $A,B,C$... etc  with or without primes or subscripts
-- used to represent packed [[string]]s
+- used to represent packed [[string|strings]]
 
 ### concatination
 - Example: if A is abc and B is de then AB is ABCDE
