@@ -10,3 +10,5 @@
 - Gamma proves A only if A is true
 - special case: $A \vdash A \equiv \top$
 - Another Metatheorem: for any $\Gamma, A,$ and $B$, if $\Gamma \vdash A$ and $\Gamma \vdash B$, then $\Gamma \vdash A\equiv B$
+
+$\vdash A \rightarrow B \equiv \neg B \rightarrow \neg A$
