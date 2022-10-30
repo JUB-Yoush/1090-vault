@@ -13,4 +13,4 @@
 
 ### Soundess Counter-Examples
 - we can use the contrapositve of the soundess theorem to also construct proofs
-- if $\Gamma !\vDash _{taut} A$ then $\Gamma \neg\vdash A$
+- if $\Gamma !\vDash _{taut} A$ then $\Gamma !\vdash A$

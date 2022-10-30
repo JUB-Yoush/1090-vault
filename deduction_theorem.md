@@ -1,7 +1,7 @@
 - a [[metatheorem]]
-- if $A$ is within [[formula_sets|formula set]] $\Gamma$
-- and $\Gamma$ is a [[tautological_implication#Hypothesis|Hypothesis]] of $B$
-- then we can say that $\Gamma$ by itself proves the implication, so $\Gamma \vdash A \rightarrow B$
+	- if $A$ is within [[formula_sets|formula set]] $\Gamma$,
+	- and $\Gamma$ is a [[tautological_implication#Hypothesis|Hypothesis]] of $B$,
+	- then we can say that $\Gamma$ by itself proves the implication, so $\Gamma \vdash A \rightarrow B$
 
 -- Example--
 - $\vdash (A\equiv B) \rightarrow (B\equiv C) \rightarrow (A \rightarrow C)$
