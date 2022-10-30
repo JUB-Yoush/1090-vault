@@ -22,3 +22,4 @@
 
 ### Other Axioms 
 Distributivity of $\land$ over $\lor$
+$(A\rightarrow B) \equiv (\neg A \lor B)$
