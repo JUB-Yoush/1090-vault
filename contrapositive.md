@@ -1,0 +1,2 @@
+A proof formed by [[boolean_alphabet#Boolean Negations|negating]] both the [[tautological_implication#Hypothesis|hypothesis]] and [[tautological_implication#Conclusion|conclusion]] of an existing proof
+if $A \vdash B$ then if $\neg A \vdash \neg B$
