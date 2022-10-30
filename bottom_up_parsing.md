@@ -1,1 +1,1 @@
-#TODO 
+Simmilar to [[top_down_parsing]], show's how a [[well_formed_formula|wff]] is created, by taking each [[atomic_formula]] and adding the [[boolean_alphabet]] characters progressivley untill the final [[well_formed_formula|wff]] is formed.
