@@ -1,5 +1,6 @@
 ## Redudant True Theorem:
 ### $\vdash \top \equiv A \equiv A$ and $\vdash A \equiv A \equiv \top$
+- if you're comparing two of the same [[string]] then you can replace it with $\top$
 - Proves that equivalence is commutative (it's symetrical)
 - we can study it from the outside (study the [[metatheory]])
 
