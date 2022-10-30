@@ -8,9 +8,9 @@
 
 | axiom number | what it means                                                                                            | 
 | ------------ | -------------------------------------------------------------------------------------------------------- |
-| 1            | Nested equivalent statements can be compared in any order                                                                                                        |
+| 1            | Nested equivalence statements can be compared in any order                                                                                                        |
 | 2            | Equivance is symmetrical, dosen't matter what side the parts are on.                                                                                                         |
-| 3            | $\top$ and $\bot$ aren't equivalent                      |
+| 3            | $\top$ and $\bot$ aren't equivalent, and return $\bot$                    |
 | 4            | if $\neg A$ is false and A is true then they aren't equivalent, $\therefore$ $F \equiv \bot$ is true.    |
 | 5            |                                                                                                          |
 | 6            |                                                                                                          |
