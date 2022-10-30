@@ -1,6 +1,6 @@
 - common sense assumptions of our logical system 
 - we know they are true, and we use them to prove
-- they are all [[formula_conditions#Tautology|Tautologies]]
+- they are all [[formula_states#Tautology|Tautologies]]
 - all [[hilbert_style_proofs|Hilber proofs]] begin with one of these axioms (or a part of the hypothesis), as they're assumed to be true.
 
 ![[logical_axioms.png]]
