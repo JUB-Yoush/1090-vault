@@ -1,2 +1,2 @@
-- the # of connectives and negations occuring in a [[well_formed_formula]]
+- the # of [[boolean_alphabet#Boolean Connectives|connectives]] and [[boolean_alphabet#Boolean Negations|negations]] occuring in a [[well_formed_formula]]
 - [[atomic_formula]] have complexity of 0
