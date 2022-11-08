@@ -1,3 +1,4 @@
+#TODO 
 - boolean logic is totally insufficient. it can't handle objects like numbers, sets, strings, etc.
 
 ### Logical symbols (fixed part of the alphabet)
@@ -9,4 +10,4 @@
 ### non logical symbols
 - Zero or more object constants 1, 1000, {1},{1,2,3},{}, denoted as a,b,c
 - Zero or more functions: + - $\cup$ $\cap$ , denoted as f,g,h with or without primes of subscripts 
-- Zero or more predicates: $$
+- Zero or more predicates: $>$, $\ge$, $\supset$   
