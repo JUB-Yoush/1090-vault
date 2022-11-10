@@ -20,3 +20,4 @@ Notation: $A[x:=t]$ demotes the wff obtained by replacing all original free occu
 - There are instances where substitution is undefined 
 
 
+### Unconditional substitution
