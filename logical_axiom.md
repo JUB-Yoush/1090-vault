@@ -23,3 +23,6 @@
 ### Other Axioms 
 Distributivity of $\land$ over $\lor$
 $(A\rightarrow B) \equiv (\neg A \lor B)$
+
+
+# First-Order Logic ($\Lambda_{1}$) 
