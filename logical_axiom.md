@@ -26,3 +26,8 @@ $(A\rightarrow B) \equiv (\neg A \lor B)$
 
 
 # First-Order Logic ($\Lambda_{1}$) 
+- logical axioms of predicate logic conssit of all possible [[partial_generalization|partial generalizations]] of any formulae in the following forms:
+- Ax1: All tautolgies
+- Ax2: Specialization axiom or substituion axiom:
+	- $(\forall x)A \rightarrow A[x:=t]$ 
+- Ax3 $(\forall x)$
