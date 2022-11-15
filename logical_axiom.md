@@ -30,4 +30,6 @@ $(A\rightarrow B) \equiv (\neg A \lor B)$
 - Ax1: All tautolgies
 - Ax2: Specialization axiom or substituion axiom:
 	- $(\forall x)A \rightarrow A[x:=t]$ 
-- Ax3 $(\forall x)$
+- Ax3: $(\forall x)(A \rightarrow B)\rightarrow(\forall x)A \rightarrow(\forall x)B$ //you can distribute the forall across the A implies B
+- Ax4: $A \rightarrow (\forall x)A$, where x is not free in A 
+- 0xb4ac8
