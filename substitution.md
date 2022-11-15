@@ -19,5 +19,3 @@ Notation: $A[x:=t]$ demotes the wff obtained by replacing all original free occu
 - The variable $x$ is bound in $A$ ($A$ is of the form $((\forall x)B)$ where $B$ is some [[well_formed_formula]]), then no replacement occurs since $x$ is not free
 - There are instances where substitution is undefined 
 
-
-### Unconditional substitution
