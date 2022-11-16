@@ -27,10 +27,11 @@ $(A\rightarrow B) \equiv (\neg A \lor B)$
 
 # First-Order Logic ($\Lambda_{1}$) 
 - logical axioms of predicate logic conssit of all possible [[partial_generalization|partial generalizations]] of any formulae in the following forms:
-- Ax1: All tautolgies
+- Ax1: All tautolgies, same ones we used in boolean logic
 - Ax2: Specialization axiom or substituion axiom:
 	- $(\forall x)A \rightarrow A[x:=t]$ 
 - Ax3: $(\forall x)(A \rightarrow B)\rightarrow(\forall x)A \rightarrow(\forall x)B$ //you can distribute the forall across the A implies B
-- Ax4: $A \rightarrow (\forall x)A$, where x is not free in A 
+- Ax4: $A \rightarrow (\forall x)A$, where x is not free in A  // 
 - Ax5 $x=x$ 
 - Ax6 $s=t \rightarrow (A[x:=s]\equiv A[x:=t])$  
+- 
