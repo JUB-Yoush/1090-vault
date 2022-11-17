@@ -1,0 +1,1 @@
+- Two "different Logics" are equivalent iff they have the s
