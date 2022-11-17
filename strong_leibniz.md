@@ -1,0 +1,4 @@
+- metatheorem
+- $A \equiv B \vdash C[p:=A] \equiv C[p:=B]$    
+- what does that mean: we can use [[conditional_substituion]] to sub each of the [[well_formed_formula|wff]] $A$ and $B$ into $C$
+- $A \equiv B$ can now be a hypothesis
