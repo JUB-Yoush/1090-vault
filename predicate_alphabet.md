@@ -6,7 +6,7 @@
 - the universal quantifier symbol: $\forall$ 
 	- the existential quantifer can be expressed as $((\exists x) A) \equiv (\neg((\forall x)(\neg A)))$, it dosen't formally exists but we'll use it anyway
 	- also $((\forall x) (B \rightarrow A)) \equiv (\forall x)_{B} A$ 
-		-  $((\exists x) (B \land A)) \equiv (\e x)_{B} A$ 
+	-  $((\exists x) (B \land A)) \equiv (\exists x)_{B} A$ 
 
 ### non logical symbols
 - Zero or more object constants 
