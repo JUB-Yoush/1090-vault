@@ -1,3 +1,9 @@
 #TODO 
+#PREDICATE_LOGIC 
 - in first order language we can talk about formulas and objects
-- build on top of our def of wff, of atomic and complex wff 
+
+### well formed formulae/terms
+- [[atomic_formula]]/terms
+- more [[complexity|complex]] formuale/terms
+
+

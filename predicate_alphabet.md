@@ -12,5 +12,5 @@
 - Zero or more functions: 
 	+ + - $\cup$ (intersection) $\cap$ (union) , denoted as f,g,h with or without primes of subscripts 
 - Zero or more predicates: 
-	- $>$, $\ge$, $\supset$   
-- dnoted as $\phi$ or $\psi$ with or without primes or subscripts 
+	- $>$, $\ge$, $\subset$ (subset)   
+	- denoted as $\phi$ or $\psi$ with or without primes or subscripts 

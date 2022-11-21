@@ -1,0 +1,1 @@
+- how do we know what symbol a [[predicate_alphabet#non logical symbols|non logcial predicate symbol]] actually represents?
