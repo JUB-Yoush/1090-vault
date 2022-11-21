@@ -6,3 +6,5 @@
 4. (bonus when dealing with [[predicate_logic]]) you can write (($\forall x$) $A$) if $A$ had already been written
 Example:
 $p,q,(\neg q),(p \land (\neg q))$
+
+### In Predicate Logic
