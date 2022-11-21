@@ -34,4 +34,3 @@ $(A\rightarrow B) \equiv (\neg A \lor B)$
 - Ax4: $A \rightarrow (\forall x)A$, where x is not free in A  // if $x$ is not free in $A$ then it dosen't occur in $A$, or it does occur in $A$, but it's bound
 - Ax5 $x=x$ // $x$ should be equal to $x$ for any variable x
 - Ax6 $s=t \rightarrow (A[x:=s]\equiv A[x:=t])$  
-- 
