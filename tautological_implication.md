@@ -13,5 +13,9 @@
 - The formulae on the Right side of the $\vDash _{taut}$
 - the "than" part of the proof
 
+### Using Abstraction
+formula $A$ is a tautology iff the [[abstraction]] of A is a tautology
+$x=y \lor \neg x=y$ being a tautology can be proved by checking if $p \lor \neg p$ is a tautology 
+
 
 
