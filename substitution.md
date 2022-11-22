@@ -8,10 +8,11 @@
 ### Substitution in Predicate Logic
 - consistent with the previous definition 
 - we substitue terms into object variables in formulae
-$s[\textbf{X}:=t]$ 
+
+$s[\textbf{X}:=t]$ is:
 $s$   // if f is a constant or a variable other than x      
-$t$   // if $s$ is $\textbf{X}$
-$f(s_{1}[\textbf{X}:=t],...,s_{n}[\textbf{X}:=t])$     
+$t$   // if $s$ is $\textbf{X}$, 
+$f(s_{1}[\textbf{X}:=t],...,s_{n}[\textbf{X}:=t])$ // if $s$ is $f(s_{1},...,s_{n})$ 
 
 
 Notation: $A[x:=t]$ demotes the wff obtained by replacing all original free occurrences of the object variable $x$ in the formula $A$ by the term $t$
