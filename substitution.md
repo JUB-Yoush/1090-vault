@@ -1,4 +1,3 @@
-
 ## $A[\textbf{p}:=B]$
 - (the $\textbf{p}$ is bolded as it's a [[metavariable]])
 - a [[schema]] in the [[metatheory]]
