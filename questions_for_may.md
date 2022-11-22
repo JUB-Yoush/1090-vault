@@ -1,3 +1,6 @@
 - how do we know what symbol a [[predicate_alphabet#non logical symbols|non logcial predicate symbol]] actually represents?
+	- we don't know yet lmao
 - what does it mean to define somthing recursivley?
-- what is the difference between formula calculation and term calculation
+	- 
+- what is the difference between formula calculation and term calculation?
+- what's the difference between boolean formula and

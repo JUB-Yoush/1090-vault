@@ -11,4 +11,5 @@
 - Zero or more object constants 1, 1000, {1},{1,2,3},{}, denoted as a,b,c
 - Zero or more functions: + - $\cup$ $\cap$ , denoted as f,g,h with or without primes of subscripts 
 - Zero or more predicates: $>$, $\ge$, $\supset$   
-- dnoted as $\phi$ or $\psi$ with or without primes or subscripts 
+- denoted as $\phi$ or $\psi$ with or without primes or subscripts 
+	- general form
