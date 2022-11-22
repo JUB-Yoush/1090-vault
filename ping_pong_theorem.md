@@ -1,4 +1,4 @@
-#TODO
+used in [[loi]]
 
 ### $A,B \vdash A \equiv B$
 
