@@ -6,5 +6,6 @@
 	- you need to set up the non logical symbols (term) frist to give a definiton of what consitutes forms
 - what's the difference between boolean formula and
 
-
 - what are the leibniz rules?
+
+- when do we use the implication arrow in predicate equational proofs?

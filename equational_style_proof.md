@@ -12,4 +12,18 @@
 
 ### predicate logic
 - we need to use many relative theorems that we cannot use in the tradtional equational proof (as they're not true on thier own)
-- 
+- equational proofs don't establish equivlance like [[hilbert_style_proofs]],
+- we can add onto our equational proofs by allowing implications
+- instead of
+- $A_{1}$
+- <=>
+- $A_{2}$
+- <=>
+- ...
+- $A_{n}$
+- we can do 
+- $A_{1}$
+- $\rightarrow$ // $A_{1}$ implies $A_{2}$
+- $A_{2}$
+- <=> // $A_{2}$ is equivalent to $A_{3}$
+- $A_{3}$ 
