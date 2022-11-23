@@ -1,4 +1,6 @@
 - [[formula_calculation]] of one [[boolean_variable]]
+
+### Predicate logic
 - in [[predicate_logic]] it's a little different 
 	- it's any [[boolean_variable|boolean variable]] or [[boolean_alphabet#Boolean constants|boolean constant]]  
 	- the [[string]] $s=t$ for any terms $t$ and $s$
