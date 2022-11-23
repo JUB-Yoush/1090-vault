@@ -9,3 +9,6 @@
 - what are the leibniz rules?
 
 - when do we use the implication arrow in predicate equational proofs?
+
+- how does dummy renaming prevent capture, wouldn't the quatifier also change it's letter too ![[Pasted image 20221123151448.png]]
+- what is a theorem vs corollary
