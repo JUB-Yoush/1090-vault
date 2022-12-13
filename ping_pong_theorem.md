@@ -1,4 +1,4 @@
-used in [[loi]]
+used in [[resolution_style_proof]]
 
 ### $A,B \vdash A \equiv B$
 
