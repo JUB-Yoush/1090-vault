@@ -1,8 +1,14 @@
 ## $A[\textbf{p}:=B]$
-- (the $\textbf{p}$ is bolded as it's a [[metavariable]])
-- a [[schema]] in the [[metatheory]]
+- (the $\textbf{p}$ is bolded as it's a [[metavariable]], that stands for any [[boolean_variable]])
+- a [[schema]] in the [[metatheory]], as : and = aren't symbols in the [[boolean_alphabet]]
 - this means to substitute/replace every [[boolean_variable]] $\textbf{p}$ occuring in the formula $A$ by formula $B$ (wherever you see $\textbf{p}$ in $A$, replace it with the entire formula $B$)
-- has the higest [[operation_priority]] over all [[boolean_alphabet#Boolean Connectives|Boolean connectives]]
+- has the higest [[operation_priority]] over all [[boolean_alphabet#Boolean Connectives|Boolean connectives]], do substitution first
+- EX: $(p \lor q)[p:=r] => (r \lor q)$  
+- can also be done recursivley, which means to substitute the nested value 
+- EX: $(\neg p)[p:=B]$
+	- apply substituion to $p$, then negate the string we get
+	- $=>(p)[p:=B] => (B)$
+	- $(\neg B)$ 
 
 ### Substitution in Predicate Logic
 - consistent with the previous definition 
