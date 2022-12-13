@@ -7,6 +7,7 @@
 ### Substitution in Predicate Logic
 - consistent with the previous definition 
 - we substitue terms into object variables in formulae
+- you only replace [[scope|free]] occurances of an object variable
 
 $s[\textbf{X}:=t]$ is:
 $s$   // if f is a constant or a variable other than x      
