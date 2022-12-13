@@ -8,4 +8,4 @@
 ## $\frac{A \equiv B}{C[\textbf{p}:=A] \equiv C[\textbf{p}:=B]}$
 
 - What it means: Equivalnece is preseved after [[substitution]]. If we substitute equivalent formuas into a [[well_formed_formula]] then the eqivalence of the formula will be the same after both.
-- if $A$ and $B$ are the same then substituting either into  a wff will give the same results 
+- if $A$ and $B$ are the same then substituting either into a wff will give the same results 
