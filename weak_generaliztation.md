@@ -1,7 +1,7 @@
 #PREDICATE_LOGIC 
 #TODO 
 - If $\Gamma \vdash A$ and $x$ does not occur free in any formula in the set $\Gamma$, then $\Gamma \vdash (\forall x)A$  
-- what does that mean:
+- what does that mean: we can generalize (add $\forall x$)  to A if $x$ doesn't appear free in the set
 - proof by induction on length of $\Gamma -$ Proof of $A$ in [[two_equivalent_logics#Logic_2|Logic 2]] 
 
 - Corollary: if $\vdash A$ then $\vdash(\forall x)A$
