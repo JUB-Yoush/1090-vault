@@ -15,15 +15,16 @@
 - equational proofs don't establish equivlance like [[hilbert_style_proofs]],
 - we can add onto our equational proofs by allowing implications
 - instead of
-- $A_{1}$
-- <=>
-- $A_{2}$
-- <=>
-- ...
-- $A_{n}$
+	- $A_{1}$
+	- <=>
+	- $A_{2}$
+	- <=>
+	- ...
+	- $A_{n}$
 - we can do 
-- $A_{1}$
-- $\rightarrow$ // $A_{1}$ implies $A_{2}$
-- $A_{2}$
-- <=> // $A_{2}$ is equivalent to $A_{3}$
-- $A_{3}$ 
+	- $A_{1}$
+	- $\rightarrow$ // $A_{1}$ implies $A_{2}$
+	- $A_{2}$
+	- <=> // $A_{2}$ is equivalent to $A_{3}$
+	- $A_{3}$ 
+- by the [[deduction_theorem]], a relative theorem $A_1 \vdash A_2$ becomes an absolute theorem $\vdash A_1 \rightarrow A_2$  
