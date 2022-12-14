@@ -12,4 +12,4 @@ How to introduce $\forall$ to a theorem
 	- what it means: you can a $\forall x$ to the conclusion of a formula iff $x$ doesn't appear free in $\Gamma$ and $A$ 
 
 Introduce $\exists$ 
-- if x dnof either in $\Gamma$ or in $B$, then $\Gamma \vdash A \rightarrow$ iff $\Gamma \vdash (\exists) $
+- if x dnof either in $\Gamma$ or in $B$, then $\Gamma \vdash A \rightarrow$ iff $\Gamma \vdash (\exists x)A\rightarrow B$  
