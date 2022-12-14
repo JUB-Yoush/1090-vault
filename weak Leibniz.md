@@ -1,3 +1,4 @@
+- #PREDICATE_LOGIC 
 - WL
 - Metatheorem
 - if $\vdash A \equiv B$, then $\vdash C[p\textbackslash A]\equiv C[p\textbackslash B]$  
